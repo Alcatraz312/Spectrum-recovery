@@ -19,7 +19,7 @@ When an exoplanet passes in front of its host star, a small amount of starlight 
 This project focuses on recovering the true exoplanet spectrum from these noisy observations. This project was done as a part of [NeurIPS - Ariel Data Challenge 2025](https://www.kaggle.com/competitions/ariel-data-challenge-2025).
 
 The stimulated data used for this project is from ESA's Ariel mission, which aims to characterize 1,000 exoplanets after its 2029 launch.
-To know more about the project and its current status, check [Wiki](https://github.com/Alcatraz312/Spectrum-recovery/wiki)
+To know more about the project and it's current status, check [Wiki](https://github.com/Alcatraz312/Spectrum-recovery/wiki).
 
 ## Getting Started
 
